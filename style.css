@@ -1,0 +1,14 @@
+#code
+{
+    width: 70%;
+    height: 100px;
+}
+#output
+{
+    width: 70%;
+    background-color: rgb(218, 30, 30);
+}
+#compile
+{
+    background-color: yellowgreen;
+}
